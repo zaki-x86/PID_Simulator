@@ -68,5 +68,3 @@ void MainWindow::update()
 {
 }
 
-
-
